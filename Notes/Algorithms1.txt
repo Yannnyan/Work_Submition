@@ -1,0 +1,7 @@
+stuff to improve:
+1) Divide and conquer 
+2) Dynamic programming
+3) NP hard problems solving 
+4) Flow problems
+5) Fibonacci heap
+6) Union- Find
