@@ -1,0 +1,4 @@
+created an interface for client, and base github for the project
+created good readme with summaries of the pdf
+read the assigment and understood 
+got to starting to implement the Server
