@@ -1,3 +1,4 @@
-divide and conquer need more practice
-greedy algorithms need more practice
-fibo heaps got to running times
+dynamic programming need more practice
+got to practical 7
+tried to implement a gui for andrew's algorithm
+
