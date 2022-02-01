@@ -1,4 +1,6 @@
-dynamic programming need more practice
-got to practical 7
-tried to implement a gui for andrew's algorithm
-
+done implementing andrew algo
+done few np hard questions and solved with dynamic programming
+went through convex hull and dynamic programming pdfs
+minimal spanning tree not finished prim
+implemented TSP dynamic programming
+ 
