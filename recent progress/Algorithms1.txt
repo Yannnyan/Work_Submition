@@ -1,6 +1,3 @@
-done implementing andrew algo
-done few np hard questions and solved with dynamic programming
-went through convex hull and dynamic programming pdfs
-minimal spanning tree not finished prim
-implemented TSP dynamic programming
- 
+went through dfs bfs topological sorting practical
+done minimal spanning tree
+not done with dfs pdf got to strongly connected component finding algorithm proof

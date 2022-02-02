@@ -1,3 +1,4 @@
-Algorithms: 11 hours
-15 minutes to write about the grade in algorithms
-End project : 2 hour
+Algorithms : 4 hours
+End_project : 2 hours
+project : 1.5 hours
+probability : 1 hour
