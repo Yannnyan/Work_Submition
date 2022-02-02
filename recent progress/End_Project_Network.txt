@@ -1,4 +1,3 @@
-created an interface for client, and base github for the project
-created good readme with summaries of the pdf
-read the assigment and understood 
-got to starting to implement the Server
+
+created a base UDP client server to send and receive messages. 
+Plan for next time: investigate how to create congestion control for UDP.
