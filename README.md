@@ -5,7 +5,7 @@ This is a repository to learn excel programming contains main excel file that co
 This repository is used to track my study and social life.
 ## The Purpose
  The purpose is to see how much work I've put in VS how much I've progressed.</br>
-I'll put notes for which methods to learn I've used in each period of time and also could be a way to find which method is the best for me.
+I'll put notes for which methods to learn I've used in each period of time (could be month or weeks duno) and also could be a way to find which method is the best for me.
 
 ## Rules
 * No missed days of commiting progress.
