@@ -1,3 +1,4 @@
-went through dfs bfs topological sorting practical
-done minimal spanning tree
 not done with dfs pdf got to strongly connected component finding algorithm proof
+went throught the greedy algorithms pdf and practical not finished
+went through ford folkerson pdf and practical not finished
+implemented edmond's karp algorithm in java not finished
