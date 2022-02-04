@@ -1,3 +1,2 @@
-Algorithms: 5 hours 
-Linear Algebra: 3 hours (bus + left)
-Network: 3 hours
+Algorithms: 12 hours
+Linear Algebra: 2 hours
