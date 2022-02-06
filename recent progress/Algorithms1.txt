@@ -1,3 +1,2 @@
 ford folkerson example with phi not yet digested and lemmas in edmond's karp algorithm need to repeat
 implemented edmond's karp algorithm in java not finished
-got to practical 11 and almost finished johnson algorithm
