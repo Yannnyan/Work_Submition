@@ -1,2 +1,4 @@
-Algorithms 8 hours
-2 training bjj
+Linear Algebra 2 hours
+Algorithms : 5 hours
+Probability : 1 hour
+Networking : 1 hour
