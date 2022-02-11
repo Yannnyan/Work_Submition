@@ -1,4 +1,2 @@
-Linear Algebra 2 hours
-Algorithms : 5 hours
-Probability : 1 hour
-Networking : 1 hour
+Probability : 7 hours
+Network end project : 2 hours
