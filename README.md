@@ -13,3 +13,13 @@ I'll put notes for which methods to learn I've used in each period of time (coul
 * Be honest.
 
 
+### macros for excel sheet
+<code>myUpdate(name, algorithm, hours)</code>
+|String |Value |
+|-------|-------|
+|prob| probability|
+|excel|Excel programming (VBA)|
+|bjj| Brazilian Jiu Jitsu|
+|proj| project|
+|pom| Pomodoro method/Algorithm|
+
