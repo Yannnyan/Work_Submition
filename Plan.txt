@@ -1,2 +1,2 @@
-Probability : 7 hours
-Network end project : 2 hours
+Net_EndProject: 10 hours
+1 hour wrestling
